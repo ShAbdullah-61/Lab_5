@@ -1,0 +1,22 @@
+.head1 div{
+    margin-left: 300px;
+   
+}
+
+.head{
+    text-align: center;
+    width: 35%;
+}
+.bt{
+    width: 35%;
+    text-align: center;
+}
+/* #b1{
+    float: left;
+}
+#b2{
+    float: left;
+} */
+.card{
+    float: left;
+}
